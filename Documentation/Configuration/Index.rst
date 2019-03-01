@@ -48,3 +48,4 @@ Configuration Reference
 	./Reference/TxSolrStatistics
 	./Reference/TxSolrLogging
 	./Reference/ExtensionSettings
+	./Reference/ExtbaseExtensionSettings
